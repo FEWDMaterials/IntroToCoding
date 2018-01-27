@@ -20,6 +20,8 @@ Please find lecture slides here
 1. **[HTML Basics](https://github.com/FEWDMaterials/IntroToCoding/tree/master/HTMLBasics)**
 1. **[Frontend Frameworks](https://github.com/FEWDMaterials/IntroToCoding/tree/master/FrontendFrameworks)**
 
+## [Class Notes](https://github.com/FEWDMaterials/IntroToCoding/tree/master/ClassNotes)
+Pls find class notes for Jan 27th 2018 here
 
 ## About Me
 
