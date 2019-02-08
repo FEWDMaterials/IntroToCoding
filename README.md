@@ -23,6 +23,8 @@ Please find lecture slides here
 ## [Class Notes](https://github.com/FEWDMaterials/IntroToCoding/tree/master/ClassNotes)
 Pls find class notes for Jan 27th 2018 here
 
+## [Class Notes 02/07/2019](https://github.com/FEWDMaterials/IntroToCoding/tree/master/Notes_02072019)
+
 ## About Me
 
 ### Taq Karim
