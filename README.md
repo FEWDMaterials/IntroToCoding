@@ -25,6 +25,8 @@ Pls find class notes for Jan 27th 2018 here
 
 ## [Class Notes 02/07/2019](https://github.com/FEWDMaterials/IntroToCoding/tree/master/Notes_02072019)
 
+## [Class Notes 02/21/2019](https://github.com/FEWDMaterials/IntroToCoding/blob/master/NOTES_02212019/index.html)
+
 ## About Me
 
 ### Taq Karim
