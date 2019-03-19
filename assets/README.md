@@ -1,0 +1,3 @@
+# Assets
+
+Of cats, mainly
